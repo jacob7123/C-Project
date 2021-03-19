@@ -1,0 +1,4 @@
+﻿  GuessWords.cpp
+c:\qt\qt_lesson\c++project\031721guessword\031721guessword\guesswords.cpp(59): warning C4018: '<': signed/unsigned 不相符
+  031721GuessWord.vcxproj -> C:\Qt\Qt_Lesson\C++Project\031721GuessWord\Debug\031721GuessWord.exe
+  031721GuessWord.vcxproj -> C:\Qt\Qt_Lesson\C++Project\031721GuessWord\Debug\031721GuessWord.pdb (Full PDB)
