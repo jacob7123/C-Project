@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\qt\qt_lesson\c++project\032321tic-tac-toe\032321tic-tac-toe\main.cpp(136): warning C4018: '<': signed/unsigned 不相符
+c:\qt\qt_lesson\c++project\032321tic-tac-toe\032321tic-tac-toe\main.cpp(150): warning C4018: '<': signed/unsigned 不相符
+c:\qt\qt_lesson\c++project\032321tic-tac-toe\032321tic-tac-toe\main.cpp(166): warning C4018: '<': signed/unsigned 不相符
+  032321Tic-Tac-Toe.vcxproj -> C:\Qt\Qt_Lesson\C++Project\032321Tic-Tac-Toe\Debug\032321Tic-Tac-Toe.exe
+  032321Tic-Tac-Toe.vcxproj -> C:\Qt\Qt_Lesson\C++Project\032321Tic-Tac-Toe\Debug\032321Tic-Tac-Toe.pdb (Full PDB)
